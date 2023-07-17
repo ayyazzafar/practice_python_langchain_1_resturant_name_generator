@@ -2,6 +2,7 @@
 
 This project generates a restaurant name and sample menu items for a given cuisine using AI. This project was developed for practice purpose.
 
+![Alt text](screenshot.png)
 ## Code
 
 The code consists of two Python files:
